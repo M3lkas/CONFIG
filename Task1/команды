@@ -1,0 +1,4 @@
+cd folder1
+touch newfile.txt
+mv newfile.txt renamedfile.txt
+mv renamedfile.txt folder1/

@@ -1,0 +1,5 @@
+user: "user"
+host: "shell-emulator"
+vfs_archive: "filesystem.tar"
+log_file: "logs.json"
+startup_script: "startup_script.sh"

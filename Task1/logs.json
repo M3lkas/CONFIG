@@ -1,0 +1,59 @@
+{"datetime": "2024-11-27T20:12:00.584204", "user": "milan", "command": "ls"}
+{"datetime": "2024-11-27T20:13:11.070714", "user": "milan", "command": "ls"}
+{"datetime": "2024-11-27T20:13:23.122159", "user": "milan", "command": "touch"}
+{"datetime": "2024-11-27T20:13:30.689389", "user": "milan", "command": "mv"}
+{"datetime": "2024-11-27T20:13:37.759513", "user": "milan", "command": "cd"}
+{"datetime": "2024-11-27T20:13:39.862034", "user": "milan", "command": "cd"}
+{"datetime": "2024-11-27T20:13:41.126182", "user": "milan", "command": "cd"}
+{"datetime": "2024-11-27T20:13:50.761995", "user": "milan", "command": "$cd"}
+{"datetime": "2024-11-27T20:14:02.311191", "user": "milan", "command": "$ cd"}
+{"datetime": "2024-11-27T20:14:08.558557", "user": "milan", "command": "ls"}
+{"datetime": "2024-11-27T20:14:31.069759", "user": "milan", "command": "tail"}
+{"datetime": "2024-11-27T20:16:50.809158", "user": "milan", "command": "cd folder1"}
+{"datetime": "2024-11-27T20:17:32.458112", "user": "milan", "command": "cd file1.txt"}
+{"datetime": "2024-11-27T20:17:49.709368", "user": "milan", "command": "touch newfile.txt"}
+{"datetime": "2024-11-27T20:18:06.075486", "user": "milan", "command": "tail renamedfile.txt"}
+{"datetime": "2024-11-27T20:25:07.309684", "user": "milan", "command": "ls"}
+{"datetime": "2024-11-27T20:25:17.470314", "user": "milan", "command": "cd"}
+{"datetime": "2024-11-27T20:25:24.409131", "user": "milan", "command": "cd vfs"}
+{"datetime": "2024-11-27T20:25:49.988886", "user": "milan", "command": "cd folder1"}
+{"datetime": "2024-11-27T20:26:09.898451", "user": "milan", "command": "touch newfile.txt"}
+{"datetime": "2024-11-27T20:26:26.213935", "user": "milan", "command": "tail renamedfile.txt"}
+{"datetime": "2024-11-27T20:26:32.951413", "user": "milan", "command": "tail renamedfile.txt"}
+{"datetime": "2024-11-27T20:26:40.166151", "user": "milan", "command": "mv"}
+{"datetime": "2024-11-27T20:26:46.959260", "user": "milan", "command": "mv folder1"}
+{"datetime": "2024-11-27T20:26:57.909627", "user": "milan", "command": "mv 1"}
+{"datetime": "2024-11-27T20:27:40.846397", "user": "milan", "command": "mv file.txt folder/"}
+{"datetime": "2024-11-27T20:35:39.361185", "user": "user", "command": "ls"}
+{"datetime": "2024-11-27T20:35:47.198544", "user": "user", "command": "cd"}
+{"datetime": "2024-11-27T20:36:18.203357", "user": "user", "command": "cd startup_file.txt"}
+{"datetime": "2024-11-27T20:38:13.569930", "user": "user", "command": "cd folder1"}
+{"datetime": "2024-11-27T20:42:15.756451", "user": "user", "command": "ls"}
+{"datetime": "2024-11-27T20:42:26.258878", "user": "user", "command": "cd vfs"}
+{"datetime": "2024-11-27T20:42:39.424890", "user": "user", "command": "mv vfs"}
+{"datetime": "2024-11-27T20:44:23.688984", "user": "user", "command": "touch newfile.txt"}
+{"datetime": "2024-11-27T20:44:44.952208", "user": "user", "command": "mv newfile.txt renamedfile.txt"}
+{"datetime": "2024-11-27T20:46:13.682554", "user": "user", "command": "mv renamedfile.txt folder1/"}
+{"datetime": "2024-11-27T20:46:46.135601", "user": "user", "command": "\u0434\u044b"}
+{"datetime": "2024-11-27T20:46:49.440582", "user": "user", "command": "ls"}
+{"datetime": "2024-11-27T20:47:06.364048", "user": "user", "command": "startup_file.txt"}
+{"datetime": "2024-11-27T20:47:17.342541", "user": "user", "command": "cd folder1"}
+{"datetime": "2024-11-27T20:47:30.233432", "user": "user", "command": "touch newfile.txt"}
+{"datetime": "2024-11-27T20:48:17.019940", "user": "user", "command": "ls"}
+{"datetime": "2024-11-27T20:48:24.094987", "user": "user", "command": "cd vfs"}
+{"datetime": "2024-11-27T20:50:50.250687", "user": "user", "command": "ls"}
+{"datetime": "2024-11-27T20:50:58.031880", "user": "user", "command": "cd vfs"}
+{"datetime": "2024-11-27T20:51:08.446473", "user": "user", "command": "cd folder1"}
+{"datetime": "2024-11-27T20:55:06.913627", "user": "user", "command": "ls"}
+{"datetime": "2024-11-27T20:55:21.978177", "user": "user", "command": "cd vfs"}
+{"datetime": "2024-11-27T20:55:37.489259", "user": "user", "command": "mv file.txt"}
+{"datetime": "2024-11-29T14:33:49.353508", "user": "user", "command": "\u0434\u044b"}
+{"datetime": "2024-11-29T14:33:54.882684", "user": "user", "command": "ls"}
+{"datetime": "2024-11-29T16:24:53.065208", "user": "user", "command": "ls"}
+{"datetime": "2024-11-29T16:25:00.146320", "user": "user", "command": "cd vfs"}
+{"datetime": "2024-11-29T16:25:14.594304", "user": "user", "command": "touch newfile.txt"}
+{"datetime": "2024-11-29T16:25:29.578421", "user": "user", "command": "mv newfile.txt renamedfile.txt"}
+{"datetime": "2024-11-30T15:48:26.938695", "user": "user", "command": "ls"}
+{"datetime": "2024-11-30T15:48:36.022546", "user": "user", "command": "cd vfs"}
+{"datetime": "2024-11-30T15:49:20.806047", "user": "user", "command": "touch newfile.txt"}
+{"datetime": "2024-11-30T15:49:42.190771", "user": "user", "command": "mv newfile.txt renamedfile.txt"}
