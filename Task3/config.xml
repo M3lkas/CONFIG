@@ -1,0 +1,12 @@
+<configuration>
+    <comment type="single-line">Это однострочный комментарий</comment>
+    <dictionary>
+        <item name="ключ1">значение1</item>
+        <item name="ключ2">значение2</item>
+    </dictionary>
+    <constant name="CONST">123</constant>
+    <expression>(1 + 2) * 3</expression>
+    <string>Пример строки</string>
+    <comment type="multi-line">Это многострочный
+    комментарий</comment>
+</configuration>
